@@ -1,0 +1,144 @@
+                                           กรณีศึกษาที่ 3
+Learning Outcomes (วัตถุประสงค์เชิงพฤติกรรม)
+เมื่อสิ้นสุดการเรียนการสอน นิสิตสามารถ
+     1. เชื่อมโยง อาการทางคลินิก อาการแสดง พยาธิสภาพ (pathophysiology) ชนิดของโรค และการแปลผล
+           การตรวจทางห้องปฏิบัติการได้อย่างถูกต้อง
+     2. อธิบาย หลักการตรวจทางห้องปฏิบัติการและวิธีการเก็บสิ่งส่งตรวจที่เกี่ยวข้องกับการวินิจฉัยโรคและ
+           ภาวะแทรกซ้อนได้
+     3. เสนอแนะ วิธีการตรวจหรือการตรวจเพิ่มเติมที่เหมาะสม เพื่อช่วยในการวินิจฉัยและ rule out โรคอื่นที่
+           ไม่เกี่ยวข้องได้
+     4. วิเคราะห์ ความเป็นไปได้ของข้อผิดพลาดในขั้นตอนก่อนการตรวจ (Preanalytical error) และผลกระทบ
+           ต่อค่าผลการตรวจทางห้องปฏิบัติการได้
+     5. นําเสนอแนวทาง การตรวจทางห้องปฏิบัติการอย่างสมเหตุผล ตามหลัก Rational Laboratory Use
+           (RLU) ได้
+ข้อมูลและประวัติ
+          หญิงไทย อายุ 76 ปี เชื้อชาติไทย สัญชาติไทย ศาสนาพุทธ สถานภาพสมรส คู่ ระดับการศึกษา ชั้น
+ประถมศึกษาปีที่ 4 อาชีพ รับจ้างทั่วไป ไม่สูบบุหรี่ ปฏิเสธการแพ้อาหารและยา ดื่มยาดองสุราเป็นประจําทุกวัน
+ชอบดื่มนํ้าอัดลมเป็นนิสัย โดยดื่มนํ้าอัดลมแทนนํ้าเปล่าขณะรับประทานอาหารเป็นประจํา
+อาการสําคัญที่มาโรงพยาบาล
+          ผู้ป่วยมา รพ. ด้วยอาการ หายใจเหนื่อยหอบ จุกแน่นหน้าอกไม่มีร้าวไปที่ใด ก่อนมาโรงพยาบาล 30 นาที
+1 วันก่อนมาโรงพยาบาล มีอาการปวดคอปวดหลัง รักษาโดยการรับประทานยาสมุนไพรไม่ทุเลา ต่อมามีอาการใจ
+สั่นเหงื่อออกปวดกราม ปวดต้นคอมากขึ้น หายใจลําบาก
+อาการแรกรับ
+          ผู้ป่วยรู้สึกตัวดี มีอาการจุกแน่น กลางหน้าอก คลื่นไส้ ไม่อาเจียน
+          ประวัติการเจ็บป่วยในอดีต
+          ได้ ร ั บ การวิ น ิ จ ฉั ย ว่ า เป็ น เบาหวานตอนอายุ 55 ปี รั บ ประทานยา Metformin, Glipizide และ
+Pioglitazone HCl แต่ผู้ป่วยรับประทานยาไม่สมํ่าเสมอ
+          ความดันโลหิตสูง เป็นมา 10 ปี รักษาที่โรงพยาบาล รับประทานยา Metoprolol
+          ไขมันในเลือดสูง เป็นมา 10 ปี รับประทานยา Xara tor
+          เคยกระดูกหัก 2 ครั้ง
+          ประวัตกิ ารตั้งครรภ์ การคลอด การทําแท้งและการคุมกําเนิด
+                      มีบุตร 2 คน บุตรคนโตนํ้าหนักแรกคลอด 4.9 กิโลกรัม ต้องผ่าคลอด
+          ประวัติความเจ็บป่วยในครอบครัว
+                      บุตรชายคนที่ 1 เป็นโรคความดันโลหิตสูงและโรคเบาหวาน
+                      บุตรสาวคนที่ 2 เป็นโรคความดันโลหิตสูง
+
+ผลการตรวจร่างกาย
+Vital signs: BT = 36.5ºC                HR = 90 bpm heart rate
+                 BP = 139/87 mmHg RR = 21 breaths per minute
+นํ้าหนัก         50 กิโลกรัม
+ส่วนสูง          150 เซนติเมตร
+มีอาการตามัวทั้ง 2 ข้าง ตรวจพบภาวะความผิดปกติที่ดวงตา ตามองไม่ชัด
+Lung:            presence of crackles in both lung bases
+Heart:           normophonetic rhythmic sounds in two stages
+Extremities:   Found a shallow blistering wound on the right little finger, a 3 cm wound
+
+ผลการตรวจทางห้องปฏิบัติการ
+แรกรับ 22.00 น.
+Chemistry
+       Random Blood glucose 550 mg/dl              BUN 30.9 mg/dl (10-25)
+       Creatinine 2.1 mg/dl (0.5-1.7)              Albumin 3.3 g/dL (3.5-4.5)
+       HbA1c 11.2 (4.0-5.6)                        AST 220 IU/L (0-35)
+       ALT 140 IU/L (0-45)                         ALP 195 IU/L (30-120)
+       GGT 105 IU/L (0-30)                         PTH 120 pg/mL (15-65)
+       Ca2+ 5.6 mg/dL (8.5-10.2)                   PO43- 8.8 mg/dL (2.8-4.5)
+       Total cholesterol 227 mg/dl (< 200 mg/dl)
+       LDL-C 152 mg/dl (<130 mg/dl)                HDL-C 36 mg/dl (>40 mg/dl)
+       TG 250 (<150 mg/dl)                         Sodium 122 mmol/L (134-145)
+       Potassium 6.8 mmol/L (3.5-5.1)              Chloride 101 mmol/L (98-107)
+       Bicarbonate 22.0 mmol/L (21-32)             pCO2 38 mmHg (35-45)
+       pO2 89 mmHg (80-100)                        Blood pH 7.38 (7.35-7.45)
+       CK-MB 5 ng/ml (0-5 ng/ml)                   Troponin T <0.1 ng/mL
+
+CBC
+       RBC count 3.0 x106 cells/µl (4-6)    Hb 7.5 g/dl (12-17)           Hct 22 % (36-51)
+       MCV 73.3 fl (80-100)                 MCH 25.0 pg (27-32)           MCHC 34 g/dl (32-35)
+       RDW-CV 14.8 % (<14)
+       WBC count 8.9 x103 cells/µl (4-10)   Platelet count 150 x103/µl (140-400)
+Blood smear
+       WBC differential count
+       Neutrophil 52%                       Lymphocyte 45%                Monocyte         3%
+       Red cell morphology
+       Anisocytosis 1+: microcyte 1+        Platelet smear: Adequate
+แพทย์ติดตามอาการผู้ป่วย ผู้ป่วยมีภาวะหายใจหอบเหนื่อยจึงให้ O2 เพิ่มทางท่อช่วยหายใจ โดยเช้าวันถัดไป
+เวลา 02.00 น. อาการของผู้ป่วยไม่ทุเลา
+
+ผลการตรวจทางห้องปฏิบัติการ
+Clinical chemistry
+        Sodium 128 mmol/L (134-145)            Potassium 6.3 mmol/L (3.5-5.1)
+        Chloride 105 mmol/L (98-107)           Bicarbonate 18.0 mmol/L (21-32)
+        pCO2 32 mmHg (35-45)                   pO2 140 mmHg (80-100)
+        Blood pH 7.3 (7.35-7.45)               CK-MB 160 ng/ml (0-5 ng/ml)
+        Troponin T 37.8 ng/mL (<0.01)
+
+จากข้อมูลข้างต้น ควรตรวจวินิจฉัยอะไรเพิ่มเติมเพื่อวินิจฉัยอาการของผู้ป่วย
+แพทย์ทําการรักษาตามอาการของผู้ป่วย และผู้ป่วยได้รับยา heparin 3000 u IV
+จากการรักษาของแพทย์ อธิบายการตรวจติดตามทางห้องปฏิบัติการ
+
+ผู้ป่วยรักษาตัวอยู่ใน รพ. ได้ 5 วัน รับประทานอาหารพบว่ามีอาการหายใจหอบเหนื่อย อัตราการหายใจ 26-
+30 ครั้งต่อนาทีปัสสาวะออกน้อยลง ใส่สายสวนปัสสาวะ
+Clinical chemistry
+          BUN 30.9 mg/dl (10-25)                Creatinine 2.93 mg/dl (0.5-1.7)
+          Albumin 2.9 g/dL (3.5-4.5)
+          Sodium 130 mmol/L (134-145)           Potassium 5.8 mmol/L (3.5-5.1)
+          Chloride 103 mmol/L (98-107)          Bicarbonate 10.0 mmol/L (21-32)
+          pCO2 21 mmHg (35-45)                  pO2 108 mmHg (80-100)
+          Blood pH 7.05 (7.35-7.45)
+CBC
+          RBC count 2.9 x106 cells/µl (4-6) Hb 7.0 g/dl (12-17)                Hct 20 % (36-51)
+          MCV 73.3 fl (80-100)                  MCH 25.0 pg (27-32)            MCHC 34 g/dl (32-35)
+          RDW-CV 14.8 % (<14)
+          WBC count 1.9 x103 cells/µl (4-10) Platelet count 145 x103/µl (140-400)
+Blood smear
+       WBC differential count
+       Neutrophil 81%                         Lymphocyte 14%              Monocyte 4%
+       Eosinophil 0.9%                        Basophil 0.1%
+       Red cell morphology
+       Anisocytosis 1+: microcyte 1+          Platelet smear: Adequate
+urinalysis
+Cloudy and dark yellow                sp.gr. = 1.012           pH = 5.5           Protein = 2+
+UPCI 4.9 g/day
+Glucose = 1+                 Ketone = 1+              Blood = 1+          Urobilinogen=neg
+LE = 2+                      Nitrite = positive       Bilirubin = neg
+WBC 20-30 /HP                WBC cast 2-3/LP          Bacteria = moderate
+RBC 5-10/HP                  Hyaline cast 0-1/LP
+Granular cast 2-3/LP         Waxy cast 1-2/LP
+
+       ผลการตรวจทางห้องปฏิบัติการจุลชีววิทยา
+       ผลการย้อม Gram’s stain จาก Urine และ Pus: Numerous Gram negative bacilli
+       ผลการทดสอบชีวเคมี (Biochemical test): Urine culture (> 105 CFU/ml) และ pus culture
+        oxidase        TSI         MIL      citrate urease           MR         VP
+            -        A/AG        -/-/-/+       +           +          -          +
+       ผลการทดสอบความไวต่อยา:
+               Antimicrobial                      Interpretation
+               Amikacin                                  S
+               Gentamicin                                S
+               Ampicillin                                S
+               Ampicillin/Sulbactam                      S
+               Piperacillin/Tazobactam                   S
+               Ceftazidime/Avibactam                     S
+               Cefoxitin                                 S
+               Cefazolin                                 R
+Cefuroxime                      R
+Cefotaxime                      R
+Ceftazidime                     S
+Ceftriaxone                     R
+Trimethoprim/sulfamethoxazole   S
+Fosfomycin                      S
+Tigecycline                     S
+Ertapenem                       S
+Imipenem                        S
+Meropenem                       S
+Ciprofloxacin                   S
+Levofloxacin                    S
+
